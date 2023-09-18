@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iecdata/static/css/main.70848b7f.css",
+    "main.js": "/iecdata/static/js/main.c50b0de2.js",
+    "static/js/496.14bf7e15.chunk.js": "/iecdata/static/js/496.14bf7e15.chunk.js",
+    "index.html": "/iecdata/index.html",
+    "main.70848b7f.css.map": "/iecdata/static/css/main.70848b7f.css.map",
+    "main.c50b0de2.js.map": "/iecdata/static/js/main.c50b0de2.js.map",
+    "496.14bf7e15.chunk.js.map": "/iecdata/static/js/496.14bf7e15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70848b7f.css",
+    "static/js/main.c50b0de2.js"
+  ]
+}
